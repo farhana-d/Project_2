@@ -1,3 +1,5 @@
+<center><img src="icon/icon-banner.png"></center><img><center>
+
 # Data Analytics and Visualization with Power BI
 Project ini membuat dashboard terkait performa toko Adventure Bikes
 
