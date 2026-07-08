@@ -1,8 +1,8 @@
 # Data Analytics and Visualization with Power BI
-Project ini membuat dashboard terkait performa toko sepeda adventure
+Project ini membuat dashboard terkait performa toko Adventure Bikes
 
 ## Sumber Data
-Data didapatkan dari file Excel dan CSV yang tertera
+Dataset didapatkan dari file Excel dan CSV yang tertera dalam project
 
 ## Data Processing
 Step-by-Step
